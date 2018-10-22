@@ -3,7 +3,6 @@
 int main(void)
 {
 
-  int size;
   char name[20];
 
   printf("Введите своё имя: ");
